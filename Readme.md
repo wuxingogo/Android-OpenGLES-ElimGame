@@ -1,4 +1,4 @@
-#EliGame
+#ElieGame
 
 ###Android, OpenGLES1.0
 
