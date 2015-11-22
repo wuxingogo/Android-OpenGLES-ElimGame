@@ -33,8 +33,11 @@
 * 多Activity切换
 
 
-{% img /screenshot/1.png %}
+![github](https://github.com/wuxingogo/Android-OpenGLES-ElimGame/blob/master/screenshot/1.png "github") 
 
-{% img /screenshot/2.png %}
-
-{% img /screenshot/3.png %}
+ ![image](https://github.com/wuxingogo/Android-OpenGLES-ElimGame/blob/master/screenshot/2.png)
+ 
+ ![image](https://github.com/wuxingogo/Android-OpenGLES-ElimGame/blob/master/screenshot/3.png)
+ 
+ 
+ 致我们珍贵的大学(HBSI),再见
